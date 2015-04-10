@@ -3,7 +3,7 @@ README
 
 This is the repository for the Pace University Mobile Application Contest.
 
-##Current App Design (April 2nd)
+##Current App Design (April 2nd) -- Mindful Senses
 ###Functions:
 ####Module -- Media Viewer
 -- Includes 3 media types: Video; Pictures; and Audio
@@ -20,10 +20,6 @@ This is the repository for the Pace University Mobile Application Contest.
 
 ####Module -- Sandbox for Sounds
 -- Collect small audio sounds and develop a unique UI to play with
--- I don't know about this one, fill it in if you do
-
-####Module -- Sing Along
--- Common Lyrics/show tune/music/(?) for patient and caregiver to sing to
 -- I don't know about this one, fill it in if you do
 
 ##TEAM NOTES:
